@@ -67,6 +67,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 <h1>Browse Page</h1>
 
 <p algin="center">
+![todo](https://user-images.githubusercontent.com/117716265/236623607-c28d0b29-1e53-410c-9c6b-c766251f8f01.png)
 
 </p>
 
